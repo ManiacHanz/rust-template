@@ -1,3 +1,6 @@
+[template]
+exclude = ["cliff.toml"]
+
 [package]
 name = "template"
 version = "0.1.0"
